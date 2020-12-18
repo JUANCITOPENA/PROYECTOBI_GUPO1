@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #4bcffa
+}
+
+h2,
+H4 {
+    text-align: center;
+    padding: 20px;
+    font-weight: 800;
+}
+
+h3 {
+    text-align: center;
+    padding: 15px;
+    font-weight: 300;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+.btn-primary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border: 3px solid #4bcffa;
+}
+
+ul,
+li {
+    list-style: none;
+    text-align: center;
+    font-weight: 500;
+}

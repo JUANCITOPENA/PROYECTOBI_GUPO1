@@ -1,10 +1,10 @@
 "# PROYECTOBI_GUPO1" 
 
+![](grupo1.png)
+
 ![](portada_grupo1.png)
 
-![](imagenes/portada3.png)
-
-![](imagenes/portada3.png)
+![](menu.png)
 
 # Link Pagina Web Funcionando:
 

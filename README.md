@@ -13,4 +13,4 @@ https://juancitopena.github.io/PROYECTOBI_GUPO1/
 
 # Link Reporte Power Bi Funcionando:
 
-https://app.powerbi.com/view?r=eyJrIjoiYWU1MDE4ZGQtMDcwMy00MTRlLWIxZWItMGU1ZTRkZWQyNmExIiwidCI6IjMwOTE4NjllLTFiNWMtNDlhNy1iZWQwLTA1ODJiMjBlYzg0NSIsImMiOjJ9
+https://cutt.ly/Hju4xRx

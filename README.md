@@ -1,6 +1,6 @@
 "# PROYECTOBI_GUPO1" 
 
-![](portada1.png)
+![](portada_grupo1.png)
 
 ![](imagenes/portada3.png)
 

@@ -1,4 +1,5 @@
 "# PROYECTOBI_GUPO1" 
+Proyecto Grupo # 1, Materia Diseño Centro de Datos, Analisis de Datos, Mineria de Datos y BI, usando SQL Server, Excel, y Power BI.
 
 ![](grupo1.png)
 
